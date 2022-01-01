@@ -1,0 +1,9 @@
+h1:nth-child(odd){
+    font-size: 60px;
+    font-family: 'Yuji Hentaigana Akari', cursive;
+    color: red;
+}
+h1::first-letter{
+    font-size: 70px;
+    color: green;
+}
